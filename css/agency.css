@@ -24,6 +24,10 @@ a {
 .text-primary {
   color: #fed136 !important; }
 
+.marginB-0{
+	margin-bottom: 0;
+}
+
 h1,
 h2,
 h3,

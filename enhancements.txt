@@ -1,0 +1,30 @@
+ 1. Make the logo bigger
+ 
+    :Team:
+1. Pankaj Singhal
+2. Sanjay krishan
+3. R. P. Singhal
+
+
+remove "PAN INDIA @ Jindal Group" from contact us and add it below rp singhal
+
+
+
+Add in Tax Information
+1.Replace tax invoices and rates with Excise & Customs
+3. Replace VAT with UAE VAT 2017
+
+
+REmove tell me more from banner add 3 logos of bar association
+1. bar council of delhi
+2. delhi bar association
+3. gautam budd nagar
+
+
+Sectorwise services
+    a. Tax services
+        1. Registration of VAT -> remove this
+
+
+        12. Registration of GST  -> 1
+       13.  Registration of UAE VAT -> 2
