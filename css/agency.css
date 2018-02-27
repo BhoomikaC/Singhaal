@@ -138,7 +138,7 @@ body {
       background-color: #212529; }
       #mainNav.navbar-shrink .navbar-brand {
         font-size: 1.25em;
-        padding: 12px 0; } }
+        padding: 0; } }
 
 header.masthead {
   text-align: center;
@@ -172,7 +172,7 @@ header.masthead {
     padding-top: 300px;
     padding-bottom: 200px; }
     header.masthead .intro-text .intro-lead-in {
-      font-size: 28px;
+      font-size: 18px;
       font-style: italic;
       line-height: 40px;
       margin-bottom: 25px;
@@ -184,6 +184,18 @@ header.masthead {
       margin-bottom: 50px;
       font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; } }
 
+	  .member-of img{
+			max-width: 100%;
+			width: 200px;
+			height: 200px;
+			object-fit: cover;
+			border-radius: 10%;
+	  }
+	  
+	  #services .section-subheading{
+			line-height: 1.5;
+	  }
+	  
 .service-heading {
   margin: 15px 0;
   text-transform: none; }
@@ -456,7 +468,9 @@ header.masthead {
   .team-member img {
     width: 225px;
     height: 225px;
-    border: 7px solid #fff; }
+    border: 7px solid #fff; 
+	object-fit: cover;
+	}
   .team-member h4 {
     margin-top: 25px;
     margin-bottom: 0;
@@ -537,8 +551,11 @@ ul.social-buttons {
     border-radius: 100%;
     outline: none;
     background-color: #212529; }
-    ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-      background-color: #fed136; }
+	
+    ul.social-buttons li a.linkedin-link:active,
+	ul.social-buttons li a.linkedin-link:focus,
+	ul.social-buttons li a.linkedin-link:hover {
+      background-color: #0077B5; }
 
 
       @media screen and (max-width: 767px){
